@@ -9,7 +9,7 @@ domain_name = "devops-project.co.uk"
 
 # Your public IP, /32. Re-check if your IP changes:
 #   curl -s https://checkip.amazonaws.com
-admin_cidr = "23.22.96.127/32"
+admin_cidr = "34.201.104.141/32"
 
 # Extra CIDRs that may scrape the exporter ports (admin_cidr and the VPC are
 # always allowed). E.g. a Prometheus server outside this VPC: ["198.51.100.7/32"]
